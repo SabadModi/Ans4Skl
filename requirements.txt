@@ -1,5 +1,4 @@
 transformers
-tensorflow
 flask
 flask-ngrok
 textract
