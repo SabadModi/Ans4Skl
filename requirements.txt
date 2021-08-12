@@ -1,7 +1,5 @@
 transformers
-torch
-torchvision
-torchaudio
+tensorflow-cpu
 Flask
 textract
 gTTS
