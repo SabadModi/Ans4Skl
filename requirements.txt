@@ -75,6 +75,9 @@ Pygments==2.9.0
 pyparsing==2.4.7
 pyrsistent==0.18.0
 python-dateutil==2.8.2
+torch
+torchvision
+torchaudio
 pytz==2021.1
 PyYAML==5.4.1
 pyzmq==22.1.0
@@ -95,7 +98,6 @@ spacy-legacy==3.0.8
 srsly==2.4.1
 statsmodels==0.12.2
 tabulate==0.8.9
-tensorflow
 termcolor==1.1.0
 terminado==0.10.1
 testpath==0.5.0
