@@ -1,10 +1,10 @@
 from flask import Flask, render_template, request, send_file
-from flask_ngrok import run_with_ngrok
+# from flask_ngrok import run_with_ngrok
 import os
 from werkzeug.utils import secure_filename
 
 app = Flask(__name__, template_folder='templates')
-run_with_ngrok(app)
+# run_with_ngrok(app)
 
 @app.route("/", methods=['GET', 'POST'])
 def main():
